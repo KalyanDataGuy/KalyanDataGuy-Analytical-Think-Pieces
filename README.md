@@ -1,4 +1,4 @@
-## 🔹 5. Analytical Think Pieces 🖋️
+## 🔹 5. Analytical Think Pieces Series - ORIGINALS 🖋️
 Reflective storytelling articles — insights on career, work, and data.  
 [View All Articles](https://github.com/KalyanDataGuy/KalyanDataGuy-Analytical-Think-Pieces)  
 *Peek: Thinking insights from analytics, career, and human patterns 🔍*
